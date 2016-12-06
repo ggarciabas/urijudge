@@ -1,0 +1,339 @@
+================================================
+			ANOTACOES EX. URI JUDGE
+================================================
+
+1001 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1001
+	Extremamente básico
+		- Exemplo de PresentationError, falta do \n ao final do print
+		- Forma de leitura e apresentação do resultado
+
+1013 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1013
+	O Maior
+		- Exemplo de leitura em linha e utilização de calculo math.h
+
+1026 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1026
+	Carrega ou não carrega?
+		- Leitura com unsigned long long int
+		- operação A ^ B
+
+1035 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1035
+	Teste de seleção 1
+		- Operador de comparação e operadores relacionais
+		- If/Else
+		- And/Or
+
+1037 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1037
+	Intervalo
+		- If/Else
+		- Operador relacional 
+
+1038 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1038
+	Lanche
+		- If/Else
+		- Compra/Venda
+		- Simples
+
+1040 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1040
+	Média 3
+		- Operações básicas matemática
+		- If/Else
+
+1041 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1041
+	Coordenadas de um ponto
+		- If/Else
+		- Leitura/Escrita 
+
+1042 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1042
+	Sort Simples
+		-
+		(*) Solução em c++
+		(*) Aplicao na avaliação de comp2
+
+1043 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1043
+	Triângulo
+		- Operações matemáticas
+		- If/Else
+
+1044 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1044
+	Múltiplos
+		- Operação matemática
+		- If/Else
+
+1045 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1045
+	Tipos de Triângulos
+		- 
+		(*) Solução em C++
+
+1046 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1046
+	Tempo de Jogo
+		- Leitura e escrita
+		- If/Else
+		- Operação matemática simples
+		(*) Wrong anwser 40%, algum caso de teste não pego
+
+1047 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1047
+	Tempo de Jogo em Minutos
+		- Leitura e escrita
+		- If/Else
+		- Operação matemática simples
+		(*) wrong anwser 60%
+
+1048 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1048
+	Aumento de salário
+		- If/Else
+		- Operações básicas matemática
+
+1049 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1049
+	Animal
+		- Comparação de strings
+		(*) Solução em c++
+
+1050 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1050
+	DDD
+		- Switch
+		- IF/Else
+		(*) wrong anwser, 100%
+
+1051 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1051
+	Imposto de renda
+		- Operações matemáticas
+		- If/Else
+		- Simples
+
+1052 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1052
+	Mês
+		- 
+		(*) Solução em c++
+
+1059 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1059
+	Números pares
+		- Sem leitura de dados
+		- Laço de repetição para apresentar a solução
+
+1060 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1060
+	Números positivos
+		- Laço de repetição para leitura dos valores
+		- IF/Else para validação
+
+1061 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1061
+	Tempo de um evento
+		- 
+		(*) Solução dem C++
+
+1064 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1064
+	Positivos em média
+		- IF
+		- Operações matemáticas
+		- Laço de repetição
+
+1065 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1065
+	Pares entre cinco números
+		- IF
+		- Operações matemáticas
+		- Laço de repetição
+
+1066 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1066
+	Pares, ímpares, positivos e negativos
+		- IF
+		- Operações matemáticas
+		- Laço de repetição
+
+1067 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1067
+	Números ímpares
+		- IF
+		- Operações matemáticas
+		- Laço de repetição
+
+1070 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1070
+	Seis números ímpares
+		- IF
+		- Operações matemáticas
+		- Laço de repetição
+
+1071 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1071
+	Soma de ímpares consecutivos 1
+		- IF
+		- Operações matemáticas
+		- Laço de repetição
+
+1072 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1072
+	Intervalo 2
+		- IF
+		- Operações matemáticas
+		- Laço de repetição
+
+1073 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1073
+	Quadrado de pares
+		- IF
+		- Operações matemáticas
+		- Laço de repetição
+
+1074 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1074
+	Par ou ímpar
+		- IF
+		- Operações matemáticas
+		- Laço de repetição
+
+1075 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1075
+	Resto 2
+		- IF
+		- Operações matemáticas
+		- Laço de repetição
+		(*) Compilation error
+
+1078 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1078
+	Tabuada
+		- Laço de repetição
+		- printf
+
+1079 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1079
+	Médias ponderadas
+		- Laço de repetição
+		- printf
+
+1080 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1080
+	Maior e Posição
+		- IF
+		- Operações matemáticas
+		- Laço de repetição
+
+1094 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1094
+	Experiências
+		- IF/Switch
+		- Operações matemáticas
+		- Laço de repetição
+
+1095 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1095
+	Sequência IJ
+		- Laço de repetição
+		- printf
+
+1096 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1096
+	Sequência IJ 2
+		- Laço de repetição
+		- printf
+
+1097 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1097
+	Sequência IJ 3
+		- Laço de repetição
+		- printf
+
+1098 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1098
+	Sequência IJ 4
+		- Laço de repetição
+		- printf
+		- operacao matematica
+		- IF/ELSE
+		(*) Wrong anwser 20%
+
+1099 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1099
+	Soma de Ímpares Consecutivos II
+		- 
+		(*) solução em c++
+
+1101 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1101
+	Sequência de Números e Soma
+		- Laço de repetição
+		- printf
+		- operacao matematica
+		- IF/ELSE
+
+1113 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1113
+	Crescente e Decrescente
+		- If/Else
+		- Leitura em linha
+		- Leitura com condição de parada especificada, quando valores iguais
+
+1114 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1114
+	Senha fixa
+		- Laço de repetição
+		- printf
+
+1115 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1115
+	Quadrante
+		- Laço de repetição
+		- printf
+		- If/Else
+
+1116 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1116
+	Dividindo X por Y
+		- Laços de repetição
+		- printf
+		- If/Else
+
+1117 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1117
+	Validação de nota
+		- Laço de repetição encadeados
+		- printf
+		- If/Else
+		(*)	Time limit exceeded
+
+1132 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1132
+	Múltiplos de 13
+		- Laço de repetição 
+		- Necessário verificar se os parâmetros estão em ordem!
+
+1245 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1245
+	Botas perdidas
+		- Leitura até o final de arquivo (EOF)
+		- Leitura com caracter em linha
+		- Utilização de vetor dinâmico
+
+1255 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1255
+	Frequência de Letras
+		- Leitura até o final da linha: scanf ("%[^\n]\n", frase);
+		- Tabela ASCII para realizar contagem e posicionamento das letras do alfabeto
+		(*) Inserir na avaliação de comp 2, exercícios já aplicado em sala de aula
+
+1329 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1329
+	Cara ou Coroa
+		- If/Else
+		- Pode ser utilizado vetor ou aplicado diretamente
+
+1555 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1555
+	Funções
+		- IF/Else
+		- operador relacional
+
+1574 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1574
+	Instruções do Robô
+		- Manipulação de vetor
+		- If/Else
+		- Leitura de uma string sscanf
+
+1789 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1789
+	Corrida de lesmas
+		- Leitura até o final do arquivo (EOF)
+		- Casos de teste dinâmicos
+		- Laço de repetição
+
+1873 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1873
+	Pedra-papel-tesoura-lagarto-Spock
+		- Manipulação de strings
+		- Comparação dos valores (string)
+		- Definição de melhor comparação para que seja definido o vencedor
+
+1930 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1930
+	Tomadas
+		- Exercício bem simples, somente soma e redução das ocupadas
+		- Problema é identificar o quão simples é
+		- somente print e scanf necessário
+		- operações simples matemática
+
+2003 - https://www.urionlinejudge.com.br/judge/pt/problems/view/2003
+	Domingo de Manhã
+		- If/Else
+		- Exercício simples
+		- Somente operações simples matemática
+
+2006 - https://www.urionlinejudge.com.br/judge/pt/problems/view/2006
+	Identificando o Chá
+		- Exercício simples
+		- Leitura de caso de teste com entradas separadas e em linha
+		- If/Else
+		- Laço de repetição
+
+
+
+
+
