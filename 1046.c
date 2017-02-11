@@ -8,7 +8,7 @@ int main () {
 
 	scanf ("%d %d", &a, &b);
 
-	printf ("O JOGO DUROU %d HORA(S)\n", (a>b) ? (24-a+b) : (b-a));
+	printf ("O JOGO DUROU %d HORA(S)\n", (a>=b) ? (24-a+b) : (b-a));
 
 	return 0;
 }

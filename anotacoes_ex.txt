@@ -16,16 +16,21 @@
 		- Leitura com unsigned long long int
 		- operação A ^ B
 
+1029 - 
+	Fibonacci, quantas chamadas?
+		- função recursiva
+		- laço de repetição
+
 1035 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1035
 	Teste de seleção 1
-		- Operador de comparação e operadores relacionais
+		- Operador de comparação e operadores logicos
 		- If/Else
 		- And/Or
 
 1037 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1037
 	Intervalo
 		- If/Else
-		- Operador relacional 
+		- Operador logicos 
 
 1038 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1038
 	Lanche
@@ -273,6 +278,11 @@
 		- Laço de repetição 
 		- Necessário verificar se os parâmetros estão em ordem!
 
+1240 - 
+	Encaixa ou não encaixa 1
+		- laço de repetição
+		- manipulação de strings
+
 1245 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1245
 	Botas perdidas
 		- Leitura até o final de arquivo (EOF)
@@ -290,10 +300,15 @@
 		- If/Else
 		- Pode ser utilizado vetor ou aplicado diretamente
 
+1467 - 
+	Zerinho ou um
+		- leitura até final de arquivo
+		- operadores lógicos
+
 1555 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1555
 	Funções
 		- IF/Else
-		- operador relacional
+		- operador logico
 
 1574 - https://www.urionlinejudge.com.br/judge/pt/problems/view/1574
 	Instruções do Robô
@@ -333,7 +348,4 @@
 		- If/Else
 		- Laço de repetição
 
-
-
-
-
+		
